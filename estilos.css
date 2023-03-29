@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)), url(imagenes/hackWall.jpg);
+    
+}
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+h1{
+    color:white;
+    font-size: 45px;
+
+}
+
+h3{
+    color:white;
+    font-size: 45px;
+
+}
+
+
+
+ul li{
+    display: inline-block;
+    padding: 0% 20px;
+
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color:aqua
+}
+
